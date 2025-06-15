@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm **AblazeVase69188**.
 
-<!--
-**AblazeVase69188/AblazeVase69188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- A university student in China
+- A patroller on Chinese Minecraft Wiki (see [Minecraft Wiki Github Page](https://github.com/mc-wiki))
+- A Minecraft player (since summer 2016)
+- ~~Good at Natural Language Programming Based on Generative Artificial Intelligence~~
 
-Here are some ideas to get you started:
+### Languages
+- C++
+- Python
+- ~~Wikitext~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=AblazeVase69188&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AblazeVase69188&layout=compact)
