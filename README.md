@@ -2,7 +2,7 @@
 I'm **AblazeVase69188**.
 
 ### About Me
-* A university student in China majoring in Computer Science.
+* A university student in China majoring in Computer Science
 * A patroller on Chinese Minecraft Wiki (see [Minecraft Wiki Github Page](https://github.com/mc-wiki))
 * A Minecraft player (since summer 2016)
 * ~~Good at Natural Language Programming Based on Generative Artificial Intelligence~~
